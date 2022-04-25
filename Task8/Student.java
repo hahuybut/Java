@@ -22,7 +22,7 @@ public class Student {
     }
     public String toString(){
         return "RollNo: "+RollNo+" "+
-                "Name: "+name+" "
+                "Name: "+name+" "+
                 " "+myClass;
     }
 
